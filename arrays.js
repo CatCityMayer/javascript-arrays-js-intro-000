@@ -9,16 +9,7 @@ function addElementToBeginningOfArray(array, element) {
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element){
-  array.unshift("element");
+  array.unshift(element);
   return array
-
-function addElementToBeginningOfArray([1]. "fish") {
-  var myArray["shark", "dolphin"];
-  myArray["fish", ...myArray]
 }
 
-function destructivelyAddElementToBeginningOfArray(){
-  var myArray["shark", "dolphin"];
-  myArray[0] = "Fish"
-
-}
